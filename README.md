@@ -4,7 +4,7 @@ Here's a description for your Dhosa Shop e-commerce frontend that is attractive 
 
 # Dhosa Shop E-commerce Frontend
 
-![Dhosa Shop](https://via.placeholder.com/1200x300) <!-- Add a relevant banner image -->
+!![alt text](image-2.png) <!-- Add a relevant banner image -->
 
 Welcome to the Dhosa Shop, your one-stop destination for the finest and most delicious dhosas! This repository contains the frontend of our e-commerce platform built using the MERN stack (MongoDB, Express, React, Node.js) to offer a seamless and delightful shopping experience.
 
@@ -65,8 +65,9 @@ Your application should now be running on `http://localhost:3000`.
  
 
 !![Home Page](image-1.png)<!-- Add relevant screenshots -->
-![Product Page](https://via.placeholder.com/600x400)
-![Cart Page](https://via.placeholder.com/600x400)
+!![Product Section](image-3.png)
+!![Cart Page](image-4.png)
+
 
 ## 🤝 Contributing
 

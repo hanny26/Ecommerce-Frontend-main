@@ -43,9 +43,14 @@ const Products = () => {
   if (error) return <p className="text-center text-red-500">Error loading products</p>;
 
   return (
-    <section className="text-gray-600 body-font">
-      <h1 className='text-6xl flex justify-center font-bold font-serif text-green-600 hover:text-orange-500'>Delicious Dhosaa</h1>
-      <div className="container px-5 py-24 mx-auto">
+    <section className="text-gray-600 body-font pt-10  ">
+    <div className='mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-60 bg-yellow-300 p-4 rounded-2xl'>
+  <h1 className='text-4xl flex justify-center font-bold font-serif text-green-600 hover:text-orange-500 transition-colors duration-300 transform hover:scale-105'>
+    Ek Dosa To Banta Hai Boss!
+  </h1>
+</div>
+
+      <div className="container px-5 py-14 mx-auto">
         <div className="flex flex-wrap -m-4">
           {products.map((product) => (
             <div key={product.id} className="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -61,14 +66,14 @@ const Products = () => {
                 <h2 className="text-gray-900 title-font text-lg font-medium">{product.title}</h2>
                 <p className="mt-1">${product.price}</p>
                 <button 
-                  className="mt-2 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700"
+                  className="mt-2  text-black ring-2 ring-lime-700 px-4 py-2 rounded-3xl hover:shadow-2xl hover:bg-green-400"
                   onClick={() => addToCart(product)}
                 >
                   Add to Cart
                 </button>
               </div>
             </div>
-          ))}
+          ))}hi
         </div>
       </div>
     </section>
