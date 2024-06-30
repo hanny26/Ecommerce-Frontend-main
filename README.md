@@ -1,12 +1,10 @@
-Here's a description for your Dhosa Shop e-commerce frontend that is attractive and suitable for GitHub:
 
----
 
 # Dhosa Shop E-commerce Frontend
 
 !![alt text](image-2.png) <!-- Add a relevant banner image -->
 
-Welcome to the Dhosa Shop, your one-stop destination for the finest and most delicious dhosas! This repository contains the frontend of our e-commerce platform built using the MERN stack (MongoDB, Express, React, Node.js) to offer a seamless and delightful shopping experience.
+Welcome to the Dhosa Shop, your one-stop destination for the finest and most delicious dhosas! This repository contains the frontend of our e-commerce platform built using the React Js to offer a seamless and delightful shopping experience.
 
 ## 🌟 Features
 
@@ -85,9 +83,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@YourTwitterHandle](https://twitter.com/yourtwitterhandle) - youremail@example.com
+Your Name - [@linkedin](https://www.linkedin.com/in/hanny-vyas/) - hannyvyas109@example.com
 
-Project Link: [https://github.com/yourusername/dhosa-shop-frontend](https://github.com/yourusername/dhosa-shop-frontend)
+Project Link: [https://github.com/yourusername/dhosa-shop-frontend](https://github.com/hanny26/dhosa-shop-frontend)
 
 ---
 
