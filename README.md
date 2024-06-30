@@ -63,7 +63,7 @@ Your application should now be running on `http://localhost:3000`.
  
 
 !![Home Page](image-1.png)<!-- Add relevant screenshots -->
-!![Product Section](image-3.png)
+!![Product Section](image-6.png)
 !![Cart Page](image-4.png)
 
 

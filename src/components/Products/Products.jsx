@@ -44,7 +44,7 @@ const Products = () => {
 
   return (
     <section className="text-gray-600 body-font pt-10  ">
-    <div className='mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-60 bg-yellow-300 p-4 rounded-2xl'>
+    <div className='mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-60 shadow-2xl p-4 rounded-2xl'>
   <h1 className='text-4xl flex justify-center font-bold font-serif text-green-600 hover:text-orange-500 transition-colors duration-300 transform hover:scale-105'>
     Ek Dosa To Banta Hai Boss!
   </h1>
