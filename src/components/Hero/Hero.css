@@ -1,0 +1,29 @@
+.hero-background {
+  background-image: url('https://example.com/your-hero-background.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.animate-bounce {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(-20%);
+  }
+  50% {
+    transform: translateY(0);
+  }
+}
+
+.drop-shadow-lg {
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+@media (min-width: 768px) {
+  .hero-background {
+    background-attachment: fixed;
+  }
+}

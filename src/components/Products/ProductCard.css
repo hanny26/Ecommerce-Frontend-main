@@ -1,0 +1,23 @@
+/* src/components/ProductCard.css */
+@keyframes zoomIn {
+    0% {
+      transform: scale(0.9);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .product-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-card img {
+    animation: zoomIn 0.3s;
+  }
+  
