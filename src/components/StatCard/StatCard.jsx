@@ -3,7 +3,7 @@ import React from 'react';
 const StatCard = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 body-font shadow-2xl">
         <div className="container px-5 py-24 mx-auto hover:shadow-2xl">
           <div className="flex flex-col text-center w-full mb-20 rounded-3xl hover:shadow-2xl">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Dosa Delight: Taste the Tradition</h1>

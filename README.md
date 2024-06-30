@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/dhosa-shop-frontend.git
+    git clone https://github.com/hanny26/Ecommerce-Frontend-main.git
     ```
 
 2. **Navigate to the project directory:**
@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps:
     npm start
     ```
 
-Your application should now be running on `http://localhost:3000`.
+Your application should now be running on `http://localhost:5173`.
 
 ## 📸 Screenshots
  
@@ -89,4 +89,3 @@ Project Link: [https://github.com/yourusername/dhosa-shop-frontend](https://gith
 
 ---
 
-Feel free to modify and add more details as needed. This description aims to provide a comprehensive and attractive overview of your e-commerce frontend project.
