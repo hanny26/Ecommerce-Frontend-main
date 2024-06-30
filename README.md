@@ -62,8 +62,9 @@ To get a local copy up and running, follow these simple steps:
 Your application should now be running on `http://localhost:3000`.
 
 ## 📸 Screenshots
+ 
 
-![Home Page](https://via.placeholder.com/600x400) <!-- Add relevant screenshots -->
+!![Home Page](image-1.png)<!-- Add relevant screenshots -->
 ![Product Page](https://via.placeholder.com/600x400)
 ![Cart Page](https://via.placeholder.com/600x400)
 
